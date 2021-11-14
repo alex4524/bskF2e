@@ -1,5 +1,5 @@
 {
-    "name": "@bsk/util",
+    "name": "bsk-util",
     "version": "1.0.2",
     "description": "bsk平台工具库",
     "author": "zhanganqi01 <zhanganqi01@bilibili.com>",
@@ -18,5 +18,6 @@
     },
     "scripts": {
         "test": "echo \"Error: run tests from root\" && exit 1"
-    }
+    },
+    "gitHead": "605d0b9939f8c4d8f3531c75d75f1a8de3ee2495"
 }
