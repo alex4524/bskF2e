@@ -1,6 +1,6 @@
 git 仓库地址：https://github.com/alex4524/bskF2e.git
 
-## 目的：  新建一个 common 组件库 & 工具库
+## 目的： 新建一个 common 组件库 & 工具库
 
 1. 组件：
    表格 表单
@@ -69,3 +69,5 @@ lerna publish 则为使用 lerna 即遍历所有子包，挨个执行 npm publis
 ----bsk-utils  
 ----bsk-ui  
 ----demo
+
+`试用github.dev`
