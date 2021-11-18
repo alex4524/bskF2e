@@ -70,4 +70,7 @@ lerna publish 则为使用 lerna 即遍历所有子包，挨个执行 npm publis
 ----bsk-ui  
 ----demo
 
-`试用github.dev`
+### 试用github.dev
+Press the `.` key on any repository or pull request, or swap `.com` with `.dev` in the URL, to go directly to a VS Code environment in your browser.
+
+在任何存储库或pull请求上按`.`键，或将`.com`与URL中的`.dev`交换，以直接转到浏览器中的VS代码环境。
